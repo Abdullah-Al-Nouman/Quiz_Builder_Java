@@ -36,11 +36,13 @@ The goal is to create a fun and interactive way to learn and test software testi
 ## 📹 Video Demonstrations
 
 ### 👨‍💻 Admin Role Video
-[Watch Admin Login and Add Questions](https://github.com/user-attachments/assets/486b93b8-5670-462e-ab81-2096aa560e66)
+[Watch Admin Login and Add Questions](https://github.com/user-attachments/assets/3c59ea53-ec4c-4c5c-8dac-5748cef0c3b7)
+
+
 
 ### 👩‍🎓 Student Role Video
-[Watch Student Quiz Attempt](https://github.com/user-attachments/assets/30755544-4982-4854-9e16-f5ee55188de4
-)
+[Watch Student Quiz Attempt](https://github.com/user-attachments/assets/196ad475-7aa1-472c-af49-0ebada5f6c11)
+
 
 ## 🛠️ Setup and Installation
 
