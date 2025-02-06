@@ -1,4 +1,4 @@
-# 🎮 Software Testing MCQ Quiz System
+# 🎮 MCQ Quiz System Build With Java
 
 This is a software system that allows an **Admin** to add multiple MCQs with 4 options and their answer keys in a `quiz.json` file. Students can then log in to the system to take a quiz based on those questions. 
 
